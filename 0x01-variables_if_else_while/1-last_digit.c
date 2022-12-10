@@ -7,11 +7,11 @@
  * Return: Always 0 (Success)
  * 
  */
-
  int main(void)
 {
 	int n;
 	int num;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	printf("Last digit of %d is ", n);
