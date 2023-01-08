@@ -1,1 +1,1 @@
-This is C programming language
+C Static Libraries
