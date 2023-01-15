@@ -30,5 +30,3 @@ char *_strpbrk(char *s, char *accept)
 	return (NULL);
 
 }
-Footer
-© 2023 GitHub, Inc.
