@@ -1,1 +1,1 @@
-Even More Pointers, Array and Strings
+C - Structures, typedef
