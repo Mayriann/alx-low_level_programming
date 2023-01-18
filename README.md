@@ -1,1 +1,1 @@
-C - Structures, typedef
+This is C Funtion Pointers
